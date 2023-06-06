@@ -1,4 +1,6 @@
 # Flight-Fare-Prediction-and-its-Data-Visualization
+Dataset Link: https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/code?select=Clean_Dataset.csv
+
 The various FEATURES of the dataset are explained below:
 1) Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
 2) Flight: Flight stores information regarding the plane's flight code. It is a categorical feature.
